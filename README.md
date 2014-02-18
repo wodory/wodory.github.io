@@ -1,3 +1,3 @@
 wodory.github.io
 ================
-## New github pages
+It's test pages on github pages.
